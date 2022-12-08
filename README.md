@@ -29,7 +29,7 @@
 <p align="center">
 
 <h2 align="center">
-  Hazard-Token-Grabber-V3
+  🔧
 
 </h2>
 
