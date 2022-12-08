@@ -95,6 +95,6 @@ config = {
 ## <a id="screenshot"></a>🔍 〢 Screenshot
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1030360968473100331/1030404106134749244/IMG_20221014_165751.png">
+<img src="https://user-images.githubusercontent.com/103051123/206413949-9bcd8947-93e1-4e89-b5b1-ef15f1791087.png">
   </kbd>
 </p>
